@@ -4,15 +4,11 @@
 
 ## DISCOVERY &mdash; Becoming our client
 
-*The DISCOVERY phase is to understand and analyze the core problem you want to
-solve, understanding what assumptions you're making, while brainstorming a
-variety of potential solutions. We want to know why you're building this, and
-want makes you unique.*
+*The DISCOVERY phase is to understand and analyze the core problem you want to solve, understanding what assumptions you're making, while brainstorming a variety of potential solutions. We want to know why you're building this, and want makes you unique.*
 
 ### Getting in touch
 
-We love email! Send us an email at chris.mears@gmail.com with a brief
-description of your project and how you see us working with you.
+We love email! Send us an email at info@wanderingleastudios.com with a brief description of your project and how you see us working with you.
 
 ### Understanding the project
 
@@ -34,8 +30,7 @@ After better understand your project and learning more about you and your goals,
 
 Sometimes ideas are too vague or too large in scope for us to set project price. In this case, we have options:
 
-* We can (and often do) work in phases using blocks of hours working against a
-top priorities list
+* We can (and often do) work in phases using blocks of hours working against a top priorities list
 * We can choose a subset of the full feature list
 
 ### How much will by website/web application cost?
@@ -110,21 +105,16 @@ Your input will be vital in prioritizing the features throughout the project.
 
 ### How you stay involved
 
-We value transparency in our relationships. So we use, share, and communicate
-through a project tracking software, which allows you to stay involved without
-losing important information in email.
+We value transparency in our relationships. So we use, share, and communicate through a project tracking software, which allows you to stay involved without losing important information in email.
 
 Here's how we suggest you staying involved (and what we've seen work best):
 
-1. For any changes or new feature suggestions that you definitely want,
-add to our project tracking software. That way:
+1. For any changes or new feature suggestions that you definitely want, add to our project tracking software. That way:
   * they'll get knocked out once they surface as a priority
   * it's easier to consider them against other to-dos
   * it keeps the team focused on building (not emailing back and forth about new feature ideas)
 
-It's definitely OK to bounce thoughts/ideas off of us, but we suggest you hold
-those for our regular calls when possible to keep things running smoothly and
-without delay.
+It's definitely OK to bounce thoughts/ideas off of us, but we suggest you hold those for our regular calls when possible to keep things running smoothly and without delay.
 
 2. Keep in mind that what might seem like "small changes" can end up taking hours. For example, something we see with many clients is the tendency to want to tweak a form or the homepage (based on gut feel, not user feedback), even before we build anything.
 
