@@ -24,22 +24,6 @@ After we have read your email, we will schedule a time to talk with you. The thi
 * Why you think we are the right fit, and
 * Anything else that you feel is important.
 
-### A note on Non-Disclosure Agreements (NDAs)
-
-While we appreciate the intent of signing an NDA (and we take confidentiality seriously), we do not sign NDAs. Wandering Leaf Studios LLC is not in the business of stealing ideas. If we were, we wouldn't be in business long. The main reasons we don't sign NDAs before we hear an idea:
-
-* We hear a vast amount of ideas. Maintaining organization and clarity of whose ideas are what is a legal and liability nightmare for our business (especially since you might not end up being a customer) and signing NDAs limits us from courting other potential business.
-* Equally important, we believe that NDAs are counter to successfully lean startups. Here is a blog post on that: [Why you don't need an NDA](http://blog.differential.com/why-you-dont-need-an-nda/).
-
-If necessary, we can build language into our MSA (Master Services Agreement) should we get that far.
-
-How we can discuss your idea without an NDA:
-
-* Don't tell us anything that you consider "secret" or don't feel comfortable sharing 
-* Because we see a lot of ideas, we can probably get a pretty good grasp without a ton of detail
-
-There are exceptions to every rule, and we do realize that some of our corporate innovation clients, with 100+ person legal teams, may not have a choice.
-
 ### Receiving an estimate
 
 After better understand your project and learning more about you and your goals, we will work to put together an estimate for you. As part of this process, we will write a short (one to two page) document describing:
