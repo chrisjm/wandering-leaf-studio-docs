@@ -2,7 +2,7 @@
 
 ## What is your rate?
 
-We don't have this public for a variety of reasons. Please [contact us](mailto: chris.mears@gmail.com) to schedule a chat on how we may work together.
+We don't have this public for a variety of reasons. Please [contact us](mailto:info@wanderingleafstudios.com) to schedule a chat on how we may work together.
 
 ## What is your evaluation cost?
 
@@ -12,6 +12,6 @@ We charge a one-time, non-refundable evaluation fee of $500 USD. This covers the
 
 If you are a client, we are committed to getting back to you within 24 hours. If you are not a client, we still strive to respond within 24 hours, but it may take 48-36 hours.
 
-## Do you do rush jobs (ie. projects which need to be released within 4-6 weeks)?
+## Help! I need a rush job! Can you finish projects within 4-6 weeks?!
 
-No. We have other clients and project deadlines that are on schedules, so we typically don't have time or resources to handle rush projects.
+Unfortunately, no. We typically have other project deadlines, so don't have the resources to handle rush projects. However, it doesn't hurt to [drop us a line](mailto:info@wanderingleafstudios.com)!
